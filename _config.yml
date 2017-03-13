@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: Autotelik Media - creators of distinguished software
+email: info@autotelik.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the Autotelik Website We design and develop software, and build web applications. 
+  We have experience developing business critical software, open source and dynamic web sites. 
+
+  We specialise in Ruby on Rails, C++, JRuby, Ember and Spree E-Commerce.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://autotelik.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: autotelik
+github_username:  autotelik
 
 # Build settings
 markdown: kramdown
